@@ -1,6 +1,6 @@
 # Sudokoo
 
-![Logo](https://github.com/MrC3drik/Sudokoo/blob/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png?raw=true)
+# ![Logo](https://github.com/MrC3drik/Sudokoo/blob/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png?raw=true)
 
 
 The best Sudoku ever made
