@@ -1,6 +1,4 @@
-# Sudokoo <img src="https://github.com/MrC3drik/Sudokoo/blob/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png?raw=true" width="70">
-
-![Logo](https://github.com/MrC3drik/Sudokoo/blob/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png?raw=true)
+# Sudokoo <img src="https://github.com/MrC3drik/Sudokoo/blob/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png?raw=true" width="50">
 
 The best Colorful Sudoku ever made
 
